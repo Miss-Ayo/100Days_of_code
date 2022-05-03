@@ -1,4 +1,4 @@
-**I've learnt the basics of CSS :**
+**I've learned the basics of CSS :**
 
 - Change the Color of Text
 - Use CSS Selectors to Style Elements
