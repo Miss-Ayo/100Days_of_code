@@ -1,0 +1,23 @@
+p {
+    font-size: 20px;
+}
+
+h2 {
+    width: 80vw;
+}
+
+img {
+    width: 600px;
+}
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (min-height: 800px)
+{
+    p {
+        font-size: 10px;
+    }
+}
